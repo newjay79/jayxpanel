@@ -7,8 +7,8 @@ import inspect
 import re
 
 def load_plugins(plugin_name):
-    path = Path(f"JayXspamBot/plugins/{plugin_name}.py")
-    name = "JayXspamBot.plugins.{}".format(plugin_name)
+    path = Path(f"JayXSpamBot/plugins/{plugin_name}.py")
+    name = "JayXSpamBot.plugins.{}".format(plugin_name)
     spec = importlib.util.spec_from_file_location(name, path)
     load = importlib.util.module_from_spec(spec)
     load.logger = logging.getLogger(plugin_name)
