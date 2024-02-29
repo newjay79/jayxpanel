@@ -21,7 +21,7 @@
 
 ## [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/3FQMmO?referralCode=uT7IB5)
 
-#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/dominator454/BOTDEPLOY) 
+#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/newjay79/) 
 
 ## What Is JayX_SpamBot
 
