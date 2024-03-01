@@ -3,7 +3,7 @@ import sys
 from sys import argv
 import glob
 from pathlib import Path
-from DollXSpamBot.utils import load_plugins
+from Jay.utils import load_plugins
 import logging
 from telethon import events
 from . import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9
@@ -12,7 +12,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 
-path = "DollXSpamBot/plugins/*.py"
+path = "Jay/plugins/*.py"
 files = glob.glob(path)
 for name in files:
     with open(name) as a:
