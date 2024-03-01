@@ -1,1 +1,1 @@
-worker: python3 -m JayXSpamaBot
+worker: python3 -m JayXSpamBot
