@@ -19,8 +19,8 @@ import os
 from telethon import events ,Button
 from telethon import functions, types
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
-from DollXSpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, SUDO_USERS, OWNER_ID
-from DollXSpamBot import CMD_HNDLR as hl
+from Jay import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, SUDO_USERS, OWNER_ID
+from Jay import CMD_HNDLR as hl
 from resources.data import GROUP, PORMS
 from telethon.tl.custom import button
 
