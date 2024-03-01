@@ -14,7 +14,7 @@
 - [x] Soon Inline Spam `soon`
 
 # Hᴏsᴛɪɴɢ
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DollX_SpamBot+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DollX_SpamBot+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+Jay+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+Jay+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
 </p>
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newjay79/jayxpanel/"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
@@ -25,7 +25,7 @@
 
 ## What Is JayX_SpamBot
 
-<b>Jayx_spambot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
+<b>Jay Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
 
 ## Is Safe To Deploy
 
