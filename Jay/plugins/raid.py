@@ -7,8 +7,8 @@ from telethon import events
 from telethon import functions, types
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 from resources.data import RAID, REPLYRAID, DEADLYSPAM, BRTHSPAM
-from DollXSpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, SUDO_USERS, OWNER_ID
-from DollXSpamBot import CMD_HNDLR as hl
+from Jay import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, SUDO_USERS, OWNER_ID
+from Jay import CMD_HNDLR as hl
 
 
 que = {}
