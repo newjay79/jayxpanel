@@ -1,9 +1,9 @@
-from DollXSpamBot import BOT0,SUDO_USERS
+from Jay import BOT0,SUDO_USERS
 from telethon import events, Button
 from telethon.tl.custom import button
 from time import time
 from datetime import datetime
-from DollXSpamBot import CMD_HNDLR as hl
+from Jsy import CMD_HNDLR as hl
     
 HELP_PIC = "https://telegra.ph/file/a21ba38c03755bce23bb6.jpg"
 
