@@ -25,7 +25,7 @@
 
 ## What Is JayX_SpamBot
 
-<b>Jay Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
+<b>Jayx_spambot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
 
 ## Is Safe To Deploy
 
