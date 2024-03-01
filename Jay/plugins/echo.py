@@ -6,8 +6,8 @@ import requests
 from telethon import events
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 
-from DollXSpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, SUDO_USERS, OWNER_ID
-from DollXSpamBot import CMD_HNDLR as hl
+from jay import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, SUDO_USERS, OWNER_ID
+from Jay import CMD_HNDLR as hl
 from resources.data import GROUP, DEADLYSPAM
 from DollXSpamBot.sql.echo_sql import addecho, get_all_echos, is_echo, remove_echo
 
