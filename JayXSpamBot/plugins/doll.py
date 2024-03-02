@@ -19,8 +19,7 @@ DOLL_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/0a90b9ca23989258
 
 
 DOLL = "✯ 𝙅𝘼𝙔 ✘ 𝙎𝙥𝙖𝙢 𝙃𝙀𝙍𝙀 ✯\n\n"
-DOLL += f"**𝐘𝐨𝐮𝐫 𝐃𝐚𝐝 𝐈𝐬 𝐂𝐨𝐦𝐢𝐧𝐠 𝐅𝐮𝐜𝐤 𝐘𝐨𝐮 𝐇𝐚𝐭𝐞𝐫𝐬 😈🚨
-**\n"
+DOLL += f"**𝐘𝐨𝐮𝐫 𝐃𝐚𝐝 𝐈𝐬 𝐂𝐨𝐦𝐢𝐧𝐠 𝐅𝐮𝐜𝐤 𝐘𝐨𝐮 𝐇𝐚𝐭𝐞𝐫𝐬 😈🚨**\n"
 DOLL += f"━───────╯•╰───────━\n"
 DOLL += f"• **𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `3.10.1`\n"
 DOLL += f"• **𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `{version.__version__}`\n"
